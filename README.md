@@ -32,13 +32,11 @@
 <div align="center">
 
 | | |
-|---|---|
 | **Name** | Eda Şahin |
 | **Nickname** | exocoetidae |
 | **Focus** | FRC Analysis & Forensic Computing |
 | **Interests** | Digital Forensics • Cyber Security • Incident Response |
 | **Learning** | Advanced Forensics Tools • Malware Analysis |
-| **Goal** | Becoming a skilled FRC Analyst |
 | **Fun Fact** | My nickname means 'flying fish' 🐟✨ |
 
 </div>
