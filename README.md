@@ -21,3 +21,15 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" width="600" alt="Divider"/>
 </p>
+
+name: Eda Şahin
+nickname: exocoetidae
+current_focus: FRC Analysis
+interests: 
+  - Digital Forensics
+  - Cyber Security
+  - Network
+  - Forensic Data Analysis
+currently_learning: ["Advanced Forensics Tools", "Malware Analysis", "Network Security"]
+aspirations: "Becoming a skilled FRC Analyst"
+fun_fact: "My nickname means 'flying fish' 🐟✨"
