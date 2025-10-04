@@ -24,26 +24,49 @@
 </p>
 
 ---
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🐟 About Me
-
-<pre>
-<code>
+```json
 {
   "name": "Eda Şahin",
   "nickname": "exocoetidae",
-  "current_focus": "FRC Analysis & Forensic Computing",
+  "current_focus": "FRC Analysis",
   "interests": [
     "Digital Forensics",
     "Cyber Security", 
     "Network",
     "Books & Art"
   ],
-  "currently_learning": ["Windows Forensics", "Networking"],
+  "currently_learning": [
+    "Windows Forensics",
+    "Networking"
+  ],
   "aspirations": "Becoming a fish",
-  "fun_fact": "My nickname means 'flying fish' 🐟✨"
+  "fun_fact": "flying fish 🐟✨"
 }
-</code>
-</pre>
-
+</td>
+<td width="50%" valign="top">
+🛠️ Forensic Arsenal
+json{
+  "current_tools": [
+    "Wireshark",
+    "FTK Imager",
+    "Autopsy",
+    "RegEdit",
+    "Volatility"
+  ],
+  "learning": [
+    "Registry Forensics",
+    "Windows Artifacts"
+  ],
+  "os": "NixOS btw 🐧"
+}
+</td>
+</tr>
+</table>
 
