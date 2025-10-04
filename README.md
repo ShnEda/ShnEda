@@ -1,7 +1,7 @@
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://twitter.com/xid33n">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://linkedin.com/in/eda-şahin-a547a8295">
     <img src="https://img.shields.io/badge/LinkedIn-132278?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -92,3 +92,31 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀⠀⠀⠀⠀⠀⠙⠿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
+---
+
+<table border="0">
+<tr>
+<td width="50%" align="center">
+
+<img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="400" alt="Aesthetic GIF"/>
+
+</td>
+<td width="50%" valign="top">
+
+## 🛠️ Forensic Arsenal
+```json
+{
+  "current_tools": [
+    "Wireshark",
+    "FTK Imager",
+    "Autopsy",
+    "RegEdit",
+    "Volatility"
+  ],
+
+  "learning": [
+    "Registry Forensics",
+    "Windows Artifacts"
+  ],
+  "os": "I use NixOS btw"
+}
