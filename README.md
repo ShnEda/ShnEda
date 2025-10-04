@@ -38,11 +38,11 @@
   "interests": [
     "Digital Forensics",
     "Cyber Security", 
-    "Incident Response",
-    "Forensic Data Analysis"
+    "Network",
+    "Books & Art"
   ],
-  "currently_learning": ["Advanced Forensics Tools", "Malware Analysis"],
-  "aspirations": "Becoming a skilled FRC Analyst",
+  "currently_learning": ["Windows Forensics", "Networking"],
+  "aspirations": "Becoming a fish",
   "fun_fact": "My nickname means 'flying fish' 🐟✨"
 }
 </code>
