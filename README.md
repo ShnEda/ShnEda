@@ -28,7 +28,6 @@
 ```yaml
 name: Eda Şahin
 nickname: exocoetidae
-located_in: İzmir, Turkey
 current_focus: FRC Analysis & Forensic Computing
 interests: 
   - Digital Forensics
