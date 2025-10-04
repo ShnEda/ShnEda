@@ -4,7 +4,7 @@
 </p>
 <!-- Decorative GIF -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/xUNစ61tKO4AAAAC/divider-black.gif" width="600" alt="Divider"/>
+  <img src="https://media1.tenor.com/m/I7km_-daD90AAAAC/moon-anime.gif" width="600" alt="Divider"/>
 </p>
 <!-- Welcome Message -->
 <h2 align="center">✨ Welcome to my Digital Space ✨</h2>
