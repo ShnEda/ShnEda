@@ -36,7 +36,7 @@ interests:
   - Forensic Data Analysis
 currently_learning: ["Advanced Forensics Tools", "Malware Analysis", "Network Security"]
 aspirations: "Becoming a skilled FRC Analyst"
-fun_fact: "My nickname means 'flying fish' 🐟✨" <p align="center">
+fun_fact: "My nickname means 'flying fish' 🐟✨"
 ```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
 </p>
