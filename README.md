@@ -24,14 +24,9 @@
 </p>
 
 ---
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ## 🐟 About Me
-```json
+```
 {
   "name": "Eda Şahin",
   "nickname": "exocoetidae",
@@ -50,28 +45,4 @@
   "fun_fact": "flying fish 🐟✨"
 }
 ```
-</td>
-<td width="50%" valign="top">
-  
-🛠️ Forensic Arsenal
-
-```json
-{
-  "current_tools": [
-    "Wireshark",
-    "FTK Imager",
-    "Autopsy",
-    "RegEdit",
-    "Volatility"
-  ],
-  "learning": [
-    "Registry Forensics",
-    "Windows Artifacts"
-  ],
-  "os": "NixOS btw 🐧"
-}
-```
-</td>
-</tr>
-</table>
 
