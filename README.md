@@ -2,10 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:132278,100:000000&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Wannabe%20Frc%20Analyst%20|%20Nick:%20exocoetidae&descAlignY=55&descSize=20"/>
 </p>
-<!-- Decorative GIF -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/VWx4ksvlPkcAAAAd/flowers-black-and-white-aesthetic.gif" width="600" alt="Divider"/>
-</p>
 <!-- Welcome Message -->
 <h2 align="center">✨ Welcome to my Digital Space ✨</h2>
 <!-- Social Media Links -->
@@ -19,4 +15,9 @@
   <a href="https://github.com/edashn">
     <img src="https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+</p>
+
+<!-- Decorative GIF -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" width="600" alt="Divider"/>
 </p>
