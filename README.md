@@ -26,7 +26,7 @@
 
 ---
 
-## 🐟 About Me
+## ⋆.˚ ☾⭒.˚ About Me
 ```json
 {
   "name": "Eda Şahin",
@@ -58,7 +58,7 @@
 </td>
 <td width="50%" valign="top" style="border: none; padding: 0;">
 
-<h2> Tools I've Been Using</h2>
+<h2> ⋆.˚ ☾⭒.˚ Tools I've Been Using</h2>
 
 ```json
 {
