@@ -63,10 +63,12 @@
     "RegEdit",
     "Volatility"
   ],
+
   "learning": [
     "Registry Forensics",
     "Windows Artifacts"
   ],
+
   "os": "I use NixOS btw"
 }
 
