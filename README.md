@@ -4,7 +4,7 @@
 </p>
 <!-- Decorative GIF -->
 <p align="center">
-  <img src="https://tenor.com/tr/view/divider-black-goth-black-rose-sparkle-gif-22312482" width="600" alt="Divider"/>
+  <img src="https://media1.tenor.com/m/RTWSaq7itGsAAAAd/moon-anime.gif" width="400" alt="Moon Aesthetic"/>
 </p>
 <!-- Welcome Message -->
 <h2 align="center">✨ Welcome to my Digital Space ✨</h2>
@@ -19,8 +19,4 @@
   <a href="https://github.com/edashn">
     <img src="https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-<!-- Decorative Line -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
