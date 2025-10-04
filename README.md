@@ -75,3 +75,11 @@
   ],
   "os": "I use NixOS btw"
 }
+```
+</td>
+<td width="33%" align="center" style="border: none; padding: 0;">
+<img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAC/art-trippy-art.gif" width="100%" alt="Trippy Art GIF"/>
+</td>
+</tr>
+</table>
+```
