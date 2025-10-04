@@ -75,7 +75,7 @@
 
 <!-- Sağ GIF -->
 <td width="25%" align="center" valign="middle" style="border: none; padding: 0;">
-  <img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAC/art-trippy-art.gif" width="250" alt="Right Trippy GIF"/>
+  <img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAd/art-trippy-art.gif" width="250" alt="Right Trippy GIF"/>
 </td>
 </tr> </table>
 
