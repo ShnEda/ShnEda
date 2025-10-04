@@ -1,10 +1,10 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:132278,100:808080&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CompEng%20Student%20&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:132278,100:808080&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Creative%20Coder&descAlignY=55&descSize=20"/>
 </p>
 <!-- Decorative GIF -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/RTWSaq7itGsAAAAd/moon-anime.gif" width="400" alt="Moon Aesthetic"/>
+  <img src="https://media1.tenor.com/m/xUNစ61tKO4AAAAC/divider-black.gif" width="600" alt="Divider"/>
 </p>
 <!-- Welcome Message -->
 <h2 align="center">✨ Welcome to my Digital Space ✨</h2>
