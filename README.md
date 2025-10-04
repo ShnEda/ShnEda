@@ -29,13 +29,21 @@
 
 ## 🐟 About Me
 
-<div align="center">
-
-| **Name** | Eda Şahin |
-| **Nickname** | exocoetidae |
-| **Focus** | FRC Analysis & Forensic Computing |
-| **Interests** | Digital Forensics • Cyber Security • Incident Response |
-| **Learning** | Advanced Forensics Tools • Malware Analysis |
-| **Fun Fact** | My nickname means 'flying fish' 🐟✨ |
-
-</div>
+<pre>
+<code>
+{
+  "name": "Eda Şahin",
+  "nickname": "exocoetidae",
+  "current_focus": "FRC Analysis & Forensic Computing",
+  "interests": [
+    "Digital Forensics",
+    "Cyber Security", 
+    "Incident Response",
+    "Forensic Data Analysis"
+  ],
+  "currently_learning": ["Advanced Forensics Tools", "Malware Analysis"],
+  "aspirations": "Becoming a skilled FRC Analyst",
+  "fun_fact": "My nickname means 'flying fish' 🐟✨"
+}
+</code>
+</pre>
