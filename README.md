@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/eda-şahin-a547a8295">
     <img src="https://img.shields.io/badge/LinkedIn-132278?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/edashn">
+  <a href="https://github.com/EdaShn">
     <img src="https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
