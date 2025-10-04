@@ -26,7 +26,7 @@
 ---
 
 ## 🐟 About Me
-```
+```json
 {
   "name": "Eda Şahin",
   "nickname": "exocoetidae",
