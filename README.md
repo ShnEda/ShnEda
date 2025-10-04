@@ -49,10 +49,14 @@
   "aspirations": "Becoming a fish",
   "fun_fact": "flying fish 🐟✨"
 }
+```
 </td>
 <td width="50%" valign="top">
+  
 🛠️ Forensic Arsenal
-json{
+
+```json
+{
   "current_tools": [
     "Wireshark",
     "FTK Imager",
@@ -66,6 +70,7 @@ json{
   ],
   "os": "NixOS btw 🐧"
 }
+```
 </td>
 </tr>
 </table>
