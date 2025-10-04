@@ -11,7 +11,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Wannabe%20Frc%20Analyst%20|%20Nick:%20exocoetidae&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Frc%20Analyst%20|%20Nick:%20exocoetidae&descAlignY=55&descSize=20"/>
 </p>
 <!-- FRC Notes Animated -->
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
