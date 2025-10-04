@@ -31,7 +31,6 @@
 
 <div align="center">
 
-| | |
 | **Name** | Eda Şahin |
 | **Nickname** | exocoetidae |
 | **Focus** | FRC Analysis & Forensic Computing |
