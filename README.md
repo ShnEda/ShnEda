@@ -48,7 +48,7 @@
   <tr>
     <!-- Sol GIF -->
     <td width="25%" align="center" valign="middle" style="border: none; padding: 0;">
-      <img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="300" alt="Left Aesthetic GIF"/>
+      <img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="250" alt="Left Aesthetic GIF"/>
     </td>
     <!-- Orta JSON -->
     <td width="50%" valign="middle" style="border: none; padding: 0;">
@@ -77,6 +77,6 @@
 
 <!-- Sağ GIF -->
 <td width="25%" align="center" valign="middle" style="border: none; padding: 0;">
-  <img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAC/art-trippy-art.gif" width="300" alt="Right Trippy GIF"/>
+  <img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAC/art-trippy-art.gif" width="250" alt="Right Trippy GIF"/>
 </td>
 
