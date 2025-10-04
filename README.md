@@ -77,7 +77,7 @@
 <td width="25%" align="center" valign="middle" style="border: none; padding: 0;">
   <img src="https://media1.tenor.com/m/9Q3mIF6E2n0AAAAC/art-trippy-art.gif" width="250" alt="Right Trippy GIF"/>
 </td>
-</tr> </table> ```
+</tr> </table>
 
 🪼⋆.˚ ☾⭒.˚ GitHub Stats ⋆.˚ ☾⭒.˚🪼
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EdaShn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc&icon_color=7aa2f7" width="48%" alt="Eda's GitHub stats"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=EdaShn&theme=tokyonight&hide_border=true&background=00000000&stroke=ffffff" width="48%" alt="Eda's Streak"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdaShn&bg_color=00000000&color=ffffff&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" alt="Eda's Contribution Graph"/> </p>
