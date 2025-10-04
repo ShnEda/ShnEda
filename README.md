@@ -50,15 +50,14 @@
 
 ```
 <table style="border-collapse: collapse; border: none; border-spacing: 0; width: 100%;">
-<tr>
-<td width="50%" align="center" style="border: none; padding: 0;">
-
-<img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="400" alt="Aesthetic GIF"/>
-
-</td>
-<td width="50%" valign="top" style="border: none; padding: 0;">
-
-<h2> ⋆.˚ ☾⭒.˚ Tools I've Been Using</h2>
+  <tr>
+    <!-- Sol GIF -->
+    <td width="25%" align="center" valign="middle" style="border: none; padding: 0;">
+      <img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="200" alt="Left Aesthetic GIF"/>
+    </td>
+    <!-- Orta JSON -->
+    <td width="50%" valign="middle" align="center" style="border: none; padding: 0;">
+      <h2>⋆.˚ ☾⭒.˚ Tools I've Been Using</h2>
 
 ```json
 {
@@ -75,6 +74,7 @@
   ],
   "os": "I use NixOS btw"
 }
+
 ```
 </td>
 
