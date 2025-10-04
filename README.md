@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:132278,color=100:000000&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Wannabe%20Frc%20Analyst%20|%20Nick:%20exocoetidae&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:132278,100:000000&height=200&section=header&text=Eda%20Şahin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Wannabe%20Frc%20Analyst%20|%20Nick:%20exocoetidae&descAlignY=55&descSize=20"/>
 </p>
 <!-- Decorative GIF -->
 <p align="center">
