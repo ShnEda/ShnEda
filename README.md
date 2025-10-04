@@ -22,14 +22,21 @@
   <img src="https://media1.tenor.com/m/uAyivvIwhzwAAAAC/tlt.gif" width="600" alt="Divider"/>
 </p>
 
+---
+
+## 💫 About Me
+```yaml
 name: Eda Şahin
 nickname: exocoetidae
-current_focus: FRC Analysis
+located_in: İzmir, Turkey
+current_focus: FRC Analysis & Forensic Computing
 interests: 
   - Digital Forensics
   - Cyber Security
-  - Network
+  - Incident Response
   - Forensic Data Analysis
 currently_learning: ["Advanced Forensics Tools", "Malware Analysis", "Network Security"]
 aspirations: "Becoming a skilled FRC Analyst"
-fun_fact: "My nickname means 'flying fish' 🐟✨"
+fun_fact: "My nickname means 'flying fish' 🐟✨" <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
+</p>
