@@ -6,7 +6,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
 </p>
 <!-- Welcome Message -->
-<h2 align="center">✨ Welcome to my Digital Space ✨</h2>
+<h2 align="center">🐟 Welcome to the Ocean 🐟</h2>
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://twitter.com/xid33n">
@@ -27,17 +27,18 @@
 
 ---
 
-## 💫 About Me
-```yaml
-name: Eda Şahin
-nickname: exocoetidae
-current_focus: FRC Analysis & Forensic Computing
-interests: 
-  - Digital Forensics
-  - Cyber Security
-  - Incident Response
-  - Forensic Data Analysis
-currently_learning: ["Advanced Forensics Tools", "Malware Analysis", "Network Security"]
-aspirations: "Becoming a skilled FRC Analyst"
-fun_fact: "My nickname means 'flying fish' 🐟✨"
-```
+## 🐟 About Me
+
+<div align="center">
+
+| | |
+|---|---|
+| **Name** | Eda Şahin |
+| **Nickname** | exocoetidae |
+| **Focus** | FRC Analysis & Forensic Computing |
+| **Interests** | Digital Forensics • Cyber Security • Incident Response |
+| **Learning** | Advanced Forensics Tools • Malware Analysis |
+| **Goal** | Becoming a skilled FRC Analyst |
+| **Fun Fact** | My nickname means 'flying fish' 🐟✨ |
+
+</div>
