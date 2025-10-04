@@ -49,17 +49,17 @@
 }
 
 ```
-
-<table border="0">
+<table style="border-collapse: collapse; border: none; border-spacing: 0; width: 100%;">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="border: none; padding: 0;">
 
 <img src="https://media1.tenor.com/m/J-HRG1Ks-k8AAAAd/zen-ichi.gif" width="400" alt="Aesthetic GIF"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none; padding: 0;">
 
-## 🛠️ Forensic Arsenal
+<h2> Tools I've Been Using</h2>
+
 ```json
 {
   "current_tools": [
@@ -69,7 +69,6 @@
     "RegEdit",
     "Volatility"
   ],
-
   "learning": [
     "Registry Forensics",
     "Windows Artifacts"
