@@ -37,12 +37,14 @@
     "Network",
     "Books & Art"
   ],
+
   "currently_learning": [
     "Windows Forensics",
     "Networking"
   ],
+
   "aspirations": "Becoming a fish",
-  "fun_fact": "flying fish 🐟✨"
+  "fun_fact": "my nickname means flying fish 🐟✨"
 }
 ```
 
