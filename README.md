@@ -1,9 +1,6 @@
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://twitter.com/xid33n">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  
+
   <a href="https://linkedin.com/in/eda-şahin-a547a8295">
     <img src="https://img.shields.io/badge/LinkedIn-132278?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
