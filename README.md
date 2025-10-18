@@ -19,7 +19,6 @@
 ```json
 {
   "name": "Eda Şahin",
-  "nickname": "exocoetidae",
   "current_focus": "FRC Analysis",
   "interests": [
     "Digital Forensics",
@@ -34,7 +33,6 @@
   ],
 
   "aspirations": "Becoming a fish",
-  "fun_fact": "my nickname means flying fish 🐟✨"
 }
 
 ```
