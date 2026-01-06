@@ -7,7 +7,7 @@
 </p>
 
 <!-- FRC Notes Animated -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cybersecurity;Always+investigating%2C+always+learning" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cyber+security;Always+investigating%2C+always+learning" alt="Typing SVG" />
 </p>
 
 ---
