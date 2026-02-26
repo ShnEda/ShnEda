@@ -7,7 +7,7 @@
 </p>
 
 <!-- FRC Notes Animated -->
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+FRC+Analyst;Diving+deep+into+digital+forensics;Passionate+about+cyber+security;Always+investigating%2C+always+learning" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+SOC+Analyst;Passionate+about+cyber+security;Always+investigating%2C+always+learning" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,16 +16,19 @@
 ```json
 {
   "name": "Eda Şahin",
-  "current_focus": "FRC Analysis",
+  "current_focus": "FRC + SOC Analysis",
   "interests": [
     "Digital Forensics",
+    "Log Analysis",
     "Cyber Security", 
     "Network",
     "Books & Art"
   ],
 
   "currently_learning": [
-    "Windows Forensics",
+    "Windows Forensics (Artifacts + Event Logs)",
+    "Registry Forensics",
+    "SIEM FUndamentals (Wazuh)",
     "Networking"
   ],
 
@@ -51,11 +54,6 @@
     "Autopsy",
     "RegEdit",
     "Volatility"
-  ],
-
-  "learning": [
-    "Registry Forensics",
-    "Windows Artifacts"
   ],
 
   "os": "I use NixOS btw"
