@@ -28,6 +28,8 @@
   "currently_learning": [
     "Windows Forensics (Artifacts + Event Logs)",
     "Registry Forensics",
+    "File System Forensics",
+    "Anti-Forensics",
     "SIEM FUndamentals (Wazuh)",
     "Networking"
   ],
