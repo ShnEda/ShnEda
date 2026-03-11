@@ -16,7 +16,7 @@
 ```json
 {
   "name": "Eda Şahin",
-  "current_focus": "FRC + SOC Analysis",
+  "current_focus": "FRC Analysis",
   "interests": [
     "Digital Forensics",
     "Log Analysis",
