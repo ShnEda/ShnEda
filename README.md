@@ -16,7 +16,7 @@
 ```json
 {
   "name": "Eda Şahin",
-  "current_focus": "FRC Analysis",
+  "current_focus": "DFIR",
   "interests": [
     "Digital Forensics",
     "Log Analysis",
@@ -31,7 +31,7 @@
     "File System Forensics",
     "Anti-Forensics",
     "SIEM FUndamentals (Wazuh)",
-    "Networking"
+    "Network Fundamentals"
   ],
 
   "aspirations": "Becoming a fish",
@@ -58,7 +58,7 @@
     "Volatility"
   ],
 
-  "os": "I use NixOS btw"
+  "os": "I used to use NixOS btw.."
 }
 
 ```
